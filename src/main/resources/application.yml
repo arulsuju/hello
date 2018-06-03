@@ -1,0 +1,4 @@
+properties:
+  msg: "hello from yml file"
+app:
+  description: "App for JWL"
